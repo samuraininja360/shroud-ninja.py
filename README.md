@@ -1,2 +1,2 @@
-# shroud-ninja.py
-Python version of Shroud Ninja Bot
+# Shroud Ninj Bot for Discord
+Python version of the Shroud Ninja Bot
